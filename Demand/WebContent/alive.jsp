@@ -26,7 +26,7 @@
 	<title>Alive</title>
 	<style>
 		span {
-			color: green
+			color: blue
 		}
 		div {
 			color: red
