@@ -26,7 +26,11 @@
 	<title>Alive</title>
 	<style>
 		span {
+<<<<<<< HEAD
 			color: green
+=======
+			color: red
+>>>>>>> refs/heads/master
 		}
 		div {
 			color: red
