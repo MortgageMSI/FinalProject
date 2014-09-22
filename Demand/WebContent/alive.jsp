@@ -25,7 +25,6 @@
 <head>
 	<title>Alive</title>
 	<style>
-		span {
 			color:blue
 		}
 		div {
